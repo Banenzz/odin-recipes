@@ -9,3 +9,30 @@
   list-style-image: url(./recipes/img/icons8-aseprite.svg);
   background-color: rgb(246, 246, 147);
 }
+
+a {
+  text-decoration: none;
+}
+
+.recipe-img{
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgb(246, 246, 147);
+}
+
+h3{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(246, 246, 147);
+}
+
+.ingredients{
+  list-style-image: url(./recipes/img/icons8-aseprite.svg);
+  padding: 15px;
+}
+
+ol {
+  padding: 15px;
+}
