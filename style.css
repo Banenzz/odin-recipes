@@ -1,0 +1,11 @@
+.header {
+  background-color: rgb(246, 246, 147);
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.main-list{
+  list-style-image: url(./recipes/img/icons8-aseprite.svg);
+  background-color: rgb(246, 246, 147);
+}
